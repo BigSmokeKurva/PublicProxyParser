@@ -1,0 +1,19 @@
+Парсер сайтов:
+hidemy
+freeproxylist
+proxydaily
+socksproxy
+proxyscape
+proxylist
+scrapingant
+usproxy
+premproxy
+proxylistorg
+coolproxynet
+echolinkorg
+xroxycom
+ipadresscom
+nntimecom
+proxynovacom
+proxylistende
+myproxycom
