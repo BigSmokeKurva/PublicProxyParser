@@ -17,3 +17,5 @@ nntimecom
 proxynovacom
 proxylistende
 myproxycom
+***
+Некоторый сайты уже не работают, код не самый лучший. Это мой старый проект (один из первых).
